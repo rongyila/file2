@@ -1,4 +1,4 @@
-package com.file2;
+﻿package com.file2;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
@@ -93,3 +93,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 }
+123
